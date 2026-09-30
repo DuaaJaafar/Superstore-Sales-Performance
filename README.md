@@ -1,6 +1,5 @@
 
-
-A# 📊 Superstore Sales Performance Dashboard
+# 📊 Superstore Sales Performance Dashboard
 
 An executive, interactive Excel dashboard built to analyze retail sales performance, regional distribution, product category profitability, and customer purchasing patterns.
 
@@ -8,7 +7,7 @@ An executive, interactive Excel dashboard built to analyze retail sales performa
 
 ## 🖥️ Dashboard Overview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](Sales_Dashboard.png)
 
 ---
 
