@@ -7,7 +7,7 @@ An executive, interactive Excel dashboard built to analyze retail sales performa
 
 ## 🖥️ Dashboard Overview
 
-<img width="1380" height="634" alt="Sales_Dashboard990" src="https://github.com/user-attachments/assets/00382c0e-7c0d-4a9d-a5e7-2388012c302a" />
+<img width="1378" height="627" alt="Sales_Dashboard90" src="https://github.com/user-attachments/assets/c8ee422b-aeeb-42cd-a02c-8497b5454a59" />
 
 
 ---
